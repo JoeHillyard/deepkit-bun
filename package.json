@@ -1,5 +1,8 @@
 {
   "name": "deepkit",
+  "scripts": {
+    "dev": "bun run --watch index.ts server:start"
+  },
   "devDependencies": {
     "@types/bun": "latest"
   },
