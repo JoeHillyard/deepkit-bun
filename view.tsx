@@ -1,3 +1,3 @@
-export default (props: any, name: string) => {
-    return (<h1>Hello, {name}!</h1>)
+export default (props: {name: string, children?: any}) => {
+    return (<h1>Hello, {props.name}!</h1>)
 }
