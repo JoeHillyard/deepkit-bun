@@ -1,0 +1,26 @@
+{
+  "name": "deepkit",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@deepkit/api-console-module": "^1.0.1-alpha.152",
+    "@deepkit/app": "^1.0.1-alpha.151",
+    "@deepkit/bun": "^1.0.1-alpha.150",
+    "@deepkit/filesystem": "^1.0.1-alpha.147",
+    "@deepkit/framework": "^1.0.1-alpha.152",
+    "@deepkit/http": "^1.0.1-alpha.151",
+    "@deepkit/injector": "^1.0.1-alpha.151",
+    "@deepkit/logger": "^1.0.1-alpha.151",
+    "@deepkit/orm": "^1.0.1-alpha.151",
+    "@deepkit/postgres": "^1.0.1-alpha.151",
+    "@deepkit/sqlite": "^1.0.1-alpha.151",
+    "@deepkit/template": "^1.0.1-alpha.151",
+    "@deepkit/type": "^1.0.1-alpha.151",
+    "@deepkit/type-compiler": "^1.0.1-alpha.150",
+    "react": "^18.3.1"
+  }
+}
